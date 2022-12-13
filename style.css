@@ -14,7 +14,7 @@ body {
     font-family: "Monument Extended";
     font-size: 100px;
     z-index: -1;
-    border: solid 1rem #BF9B30;
+    border: solid .5rem #BF9B30;
     padding: 2rem;
 
 }
