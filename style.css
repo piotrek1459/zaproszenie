@@ -14,15 +14,28 @@ body {
     font-family: "Monument Extended";
     font-size: 100px;
     z-index: -1;
+    border: solid 1rem #BF9B30;
+    padding: 2rem;
+
 }
 
 .content {
     text-align: center;
     font-size: 1.5rem;
+    font-family: 'Open Sans', sans-serif;
 }
 
-.header h1 {
-    text-align: center;
+.content h2 {
+    font-family: 'Great Vibes', cursive;
+    color: #BF9B30;
+}
+
+.arkadia {
+    font-family: 'Great Vibes', cursive;
+}
+
+.name {
+    font-family: 'Dancing Script', cursive;
     font-size: 2rem;
 }
 
